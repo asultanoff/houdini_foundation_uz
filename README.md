@@ -44,10 +44,5 @@ Slaydlarni ko'rganda, qaysi knopkalar bosilganini slayddagi podskazkalarda ko'ri
 
 Uyga vazifa sifatida, o'qib o'rganishga har hil websayt ssilkalari berilishi mumkin. Ular ko'pincha inglizcha yoki ruscha bo'ladi. Bunaqa tekst ma'lumotlarni google chrome brauseridan foydalanganda, mishkaning o'ng knopkasi bilan o'zbek tiliga o'girsa bo'ladi. Ushbu slayda bu jarayon ko'rsatilgan. 
 
-![](images/page_translation.gif)
+![](https://cdn-101.anonfiles.com/x9pcM8f7y8/4f01ee7d-1652402432/page_translation.gif)
 
-Google chrome ning ushbu tarjimoni bizga ancha yordam beradi. 
-
-```1Y4GuPjJCGe6nUvvtwah9JxVuxXmOh5yQ```
-
-<a href="https://drive.google.com/uc?export=view&id=1Y4GuPjJCGe6nUvvtwah9JxVuxXmOh5yQ"><img src="https://drive.google.com/uc?export=view&id=1Y4GuPjJCGe6nUvvtwah9JxVuxXmOh5yQ" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
