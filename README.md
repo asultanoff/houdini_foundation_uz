@@ -44,4 +44,3 @@ Slaydlarni ko'rganda, qaysi knopkalar bosilganini slayddagi podskazkalarda ko'ri
 
 Uyga vazifa sifatida, o'qib o'rganishga har hil websayt ssilkalari berilishi mumkin. Ular ko'pincha inglizcha yoki ruscha bo'ladi. Bunaqa tekst ma'lumotlarni google chrome brauseridan foydalanganda, mishkaning o'ng knopkasi bilan o'zbek tiliga o'girsa bo'ladi. Ushbu slayda bu jarayon ko'rsatilgan. 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/foZ-_qkZYjs/0.jpg)](http://www.youtube.com/watch?v=foZ-_qkZYjs "Video Title")
